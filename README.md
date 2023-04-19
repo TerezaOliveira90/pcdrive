@@ -9,10 +9,17 @@
 -----------------------
 # Índice 
 
-* [Projeto pcDrive](#projeto-pcdrive)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Esquema de API](#esquema-de-api)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Métodos e Rotas](#métodos-e-rotas)
+* [Status do Projeto](#status-do-projeto)
+* [Investimentos Futuros](#investimentos-futuros)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Agradecimentos](#agradecimentos )
 
 
- #### Projeto pcDrive
+ #### Descrição do Projeto
 
 O projeto PCDrive foi criado visando ajudar pessoas com deficiência que procuram oportunidades de emprego, diante da grande dificuldade motivada pela falta de programas de inclusão e o pouco conhecimento das empresas em saber como encontrar e recrutar candidates com deficiência.
 
@@ -47,19 +54,19 @@ Será utilizado duas schemas:
 
  #### Tecnologias utilizadas
  
-- Git
-- Node.js
-- MongoDB
-- Heroku
-- Postman
+* Git
+* Node.js
+* MongoDB
+* Heroku
+* Postman
 
 ---------------------------------------
 
-#### Pacotes utilizados
+#### Pacotes Utilizados
 
-- nodemon
-- express
-- mongoose
+* nodemon
+* express
+* mongoose
 
 ------------------------------------------
 
@@ -92,32 +99,48 @@ No usuário Companies, os métodos e rotas serão:
 |PUT     | /companies:id    |   Alterar/atualizar empresas  |
 
 -----------------------------------
-#### Gostaria de contribuir/sugerir melhorias para o projeto?
+#### Status do Projeto
+ 
+:construction: Projeto em construção :construction:
+ 
+ 
+-----------------------------------
+#### Projetos Futuros
+ 
+ 
+<center> <img src="./IMG/" alt="Logotipo pcdrive"></center> 
+ 
+ Será desenvolvido a versão mobile do aplicativo pcDrive. 
+ Neste projeto haverá participação de profissionais de UI/UX Design e Front-End.
+ 
+ 
+-----------------------------------
+#### Acesso ao Projeto
+ 
+Gostaria de contribuir/sugerir melhorias para o projeto?
 
-=> Crie um fork do projeto
+* Crie um fork do projeto
 
-=> Crie uma branch chamada feature/seu-nome
+* Crie uma branch chamada feature/seu-nome
 
-=> Faça suas contribuições 
+* Faça suas contribuições 
 
-=> Faz o commit (quantos precisar)
+* Faz o commit (quantos precisar)
 
-=> Abre um pull request :)
+* Abre um pull request :)
 
 -----------------------------------
 #### Agradecimentos 
 
-*Gratidão a todas as mulheres incríveis do {reprograma} e Porto MINAS (Facilitadora, psicóloga, professoras, monitoras e palestrantes), que tocam um projeto necessário para diminuir o gap de gênero e incluir mulheres na tecnologia.*
+* Gratidão a todas as mulheres incríveis do {reprograma} e Porto MINAS (Facilitadora, psicóloga, professoras, monitoras e palestrantes), que tocam um projeto necessário para diminuir o gap de gênero e incluir mulheres na tecnologia.*
 
-*Gratidão as minhas colegas da turma on7-porto, um verdadeiro significado de sororidade e rede de apoio. Em especial agradeço a Giselle Oliveira, pela parceria durante os 5 meses de curso.*
+* Gratidão as minhas colegas da turma on7-porto, um verdadeiro significado de sororidade e rede de apoio. Em especial agradeço a Giselle Oliveira, pela parceria durante os 5 meses de curso.*
 
-*Gratidão a Rafaella França, namorada e parceira no processo de desenvolvimento deste projeto, e a minha família.*
+* Gratidão a Rafaella França, namorada e parceira no processo de desenvolvimento deste projeto, e a minha família.*
 
 --------------------------------
 
 *Autora: Tereza Oliveira*
-
-
 
 *fonte:https://www.catho.com.br/carreira-sucesso/colunistas/noticias/obstaculos-da-inclusao-pcd-no-mercado-de-trabalho/*
 

@@ -12,14 +12,15 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Esquema de API](#esquema-de-api)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Pacotes Utilizados](#pacotes-utilizados)
 * [Métodos e Rotas](#métodos-e-rotas)
 * [Status do Projeto](#status-do-projeto)
-* [Investimentos Futuros](#investimentos-futuros)
+* [Projetos Futuros](#projetos-futuros)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Agradecimentos](#agradecimentos )
 
 
- #### Descrição do Projeto
+## Descrição do Projeto
 
 O projeto PCDrive foi criado visando ajudar pessoas com deficiência que procuram oportunidades de emprego, diante da grande dificuldade motivada pela falta de programas de inclusão e o pouco conhecimento das empresas em saber como encontrar e recrutar candidates com deficiência.
 
@@ -27,7 +28,7 @@ Segundo a pesquisa da Santo Caos em parceria com a Catho realizada em 2019 (com 
 
 -----------------------------------
 
- #### Esquema de API
+## Esquema de API
 
 A API irá armazenar dados importantes de candidatxs, suficiente para suprir as informações necessárias para uma empresa se interessar e contactar para participar de um processo seletivo. Também irá armazenar dados das empresas cadastradas e que querem divulgar seu interesse em investir na diversidade.
 
@@ -52,7 +53,7 @@ Será utilizado duas schemas:
 
 -----------------------------------
 
- #### Tecnologias utilizadas
+## Tecnologias Utilizadas
  
 * Git
 * Node.js
@@ -62,7 +63,7 @@ Será utilizado duas schemas:
 
 ---------------------------------------
 
-#### Pacotes Utilizados
+## Pacotes Utilizados
 
 * nodemon
 * express
@@ -70,7 +71,7 @@ Será utilizado duas schemas:
 
 ------------------------------------------
 
-#### Métodos e Rotas
+## Métodos e Rotas
 
 Por meio dos métodos HTTP, será manipulado os dados de acordo com a necessidade dos usuários.
 
@@ -99,21 +100,22 @@ No usuário Companies, os métodos e rotas serão:
 |PUT     | /companies:id    |   Alterar/atualizar empresas  |
 
 -----------------------------------
-#### Status do Projeto
+### Status do Projeto
  
 :construction: Projeto em construção :construction:
  
  
 -----------------------------------
-#### Projetos Futuros
+## Projetos Futuros
  
  
 <center> <img src="./IMG/prototipo.jpg" alt="Logotipo pcdrive"></center> 
  
-Será desenvolvido a versão mobile do aplicativo pcDrive, neste projeto haverá participação de profissionais para estudod de UI/UX Design e Front-End.
+Será desenvolvido a versão mobile do aplicativo pcDrive.
+O projeto contará com a participação de profissionais para estudos de UI/UX Design e desenvolvimento da stack Front-End.
 
 -----------------------------------
-#### Acesso ao Projeto
+## Acesso ao Projeto
  
 Gostaria de contribuir/sugerir melhorias para o projeto?
 

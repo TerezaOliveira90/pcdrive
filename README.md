@@ -108,12 +108,10 @@ No usuário Companies, os métodos e rotas serão:
 #### Projetos Futuros
  
  
-<center> <img src="./IMG/" alt="Logotipo pcdrive"></center> 
+<center> <img src="./IMG/prototipo.jpg" alt="Logotipo pcdrive"></center> 
  
- Será desenvolvido a versão mobile do aplicativo pcDrive. 
- Neste projeto haverá participação de profissionais de UI/UX Design e Front-End.
- 
- 
+Será desenvolvido a versão mobile do aplicativo pcDrive, neste projeto haverá participação de profissionais para estudod de UI/UX Design e Front-End.
+
 -----------------------------------
 #### Acesso ao Projeto
  

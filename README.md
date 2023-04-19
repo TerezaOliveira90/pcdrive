@@ -26,6 +26,9 @@ O projeto PCDrive foi criado visando ajudar pessoas com deficiência que procura
 
 Segundo a pesquisa da Santo Caos em parceria com a Catho realizada em 2019 (com mais de 1.000 respondentes), 34% dos profissionais com deficiência se sentem isolados no ambiente de trabalho, percepção que reforça a lacuna de investimento das empresas a respeito do tema. Outros pilares também foram observados, tais como ausência de: compartilhamento (37%), compromisso (17%) e orgulho (11%). 
 
+O pcDrive se apresentará num formato de aplicativo híbrido, atendendo necessidades tanto para acesso web quanto para acesso por smartphones.
+ 
+ 
 -----------------------------------
 
 ## Esquema de API
